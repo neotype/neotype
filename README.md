@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,5 +20,5 @@ Mac                      37 hrs 32 mins      ███████████�
 ```
 
 
- Last Updated on 24/02/2022 22:22:34 UTC
+ Last Updated on 25/02/2022 22:21:55 UTC
 <!--END_SECTION:waka-->
