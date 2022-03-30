@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -7,16 +7,16 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    26 hrs 2 mins       █████████████████████████   100.0%
+Other                    32 hrs 41 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  26 hrs 2 mins       █████████████████████████   100.0%
+Browser                  32 hrs 41 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      26 hrs 2 mins       █████████████████████████   100.0%
+Mac                      32 hrs 41 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 29/03/2022 22:22:56 UTC
+ Last Updated on 30/03/2022 22:22:41 UTC
 <!--END_SECTION:waka-->
