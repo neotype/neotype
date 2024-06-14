@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C364%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C366%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -9,15 +9,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs 44 mins      █████████████████████████   100.00 % 
+Other                    11 hrs 35 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 44 mins      █████████████████████████   100.00 % 
+Chrome                   11 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/06/2024 22:18:05 UTC
+ Last Updated on 14/06/2024 22:18:09 UTC
 <!--END_SECTION:waka-->
