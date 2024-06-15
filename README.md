@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C366%20hrs%207%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -9,15 +7,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 35 mins      █████████████████████████   100.00 % 
+Other                    11 hrs 10 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 35 mins      █████████████████████████   100.00 % 
+Chrome                   11 hrs 10 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/06/2024 22:18:09 UTC
+ Last Updated on 15/06/2024 22:17:03 UTC
 <!--END_SECTION:waka-->
