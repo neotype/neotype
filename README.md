@@ -9,16 +9,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    25 hrs 40 mins      ███████████████████████░░   91.13 % 
-Markdown                 2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Other                    23 hrs 10 mins      ███████████████████████░░   93.39 % 
+Markdown                 1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 🔥 Editors: 
-Chrome                   28 hrs 10 mins      █████████████████████████   100.00 % 
+Chrome                   24 hrs 48 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      28 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/03/2026 22:35:58 UTC
+ Last Updated on 29/03/2026 22:38:13 UTC
 <!--END_SECTION:waka-->
