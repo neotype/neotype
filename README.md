@@ -9,16 +9,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    16 hrs 23 mins      █████████████████████░░░░   83.98 % 
-SQL                      3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Other                    13 hrs 10 mins      █████████████████████░░░░   82.55 % 
+SQL                      2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
 
 🔥 Editors: 
-Chrome                   19 hrs 30 mins      █████████████████████████   100.00 % 
+Chrome                   15 hrs 57 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      19 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/05/2026 23:11:14 UTC
+ Last Updated on 26/05/2026 23:13:50 UTC
 <!--END_SECTION:waka-->
