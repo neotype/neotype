@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C574%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C581%20hrs%2021%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,16 +9,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    31 hrs 6 mins       ████████████████████░░░░░   78.94 % 
-SQL                      8 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+Other                    34 hrs 15 mins      ███████████████████░░░░░░   74.87 % 
+SQL                      11 hrs 29 mins      ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
 
 🔥 Editors: 
-Chrome                   39 hrs 24 mins      █████████████████████████   100.00 % 
+Chrome                   45 hrs 45 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      39 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      45 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/07/2026 23:17:26 UTC
+ Last Updated on 10/07/2026 23:02:51 UTC
 <!--END_SECTION:waka-->
