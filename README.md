@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -9,14 +9,14 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    20 hrs 4 mins       ██████████████████░░░░░░░   72.32 % 
-SQL                      7 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.68 % 
+Other                    19 hrs 56 mins      ███████████████████░░░░░░   75.95 % 
+SQL                      6 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
 
 🔥 Editors: 
-Chrome                   27 hrs 45 mins      █████████████████████████   100.00 % 
+Chrome                   26 hrs 14 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      27 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -26,5 +26,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 06/09/2026 23:41:01 UTC
+ Last Updated on 08/09/2026 00:06:52 UTC
 <!--END_SECTION:waka-->
