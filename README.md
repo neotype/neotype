@@ -9,14 +9,14 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    9 hrs 4 mins        ███████████████████░░░░░░   76.13 % 
-SQL                      2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
+Other                    4 hrs 41 mins       █████████████████░░░░░░░░   69.96 % 
+SQL                      2 hrs               ████████░░░░░░░░░░░░░░░░░   30.04 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 55 mins      █████████████████████████   100.00 % 
+Chrome                   6 hrs 42 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      6 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -26,5 +26,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 05/10/2026 00:38:27 UTC
+ Last Updated on 06/10/2026 02:08:44 UTC
 <!--END_SECTION:waka-->
